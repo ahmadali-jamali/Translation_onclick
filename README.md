@@ -6,10 +6,10 @@ By clicking on the word see the translation/
 in the programm can change the destinate language.(by default English to German(de)).
 
 Prerequest:
-0. python3
-1. pyautogui
-2. googletrans
-3. pprint
+1. python3
+2. pyautogui
+3. googletrans
+4. pprint
 
 installation pre request for windows :
 1. pip install pyautogui
